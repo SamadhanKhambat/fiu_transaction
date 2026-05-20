@@ -1,1 +1,1 @@
-# fiu_transaction
+Developed a scalable FIU Transaction Monitoring Pipeline using PySpark to process banking transaction data by performing data cleaning, null handling, date validation, risk classification, suspicious transaction detection, customer-level aggregations, and window-based transaction ranking. Stored transformed data in Parquet format for downstream analytics and reporting using PySpark, Spark SQL, and DataFrame API.
